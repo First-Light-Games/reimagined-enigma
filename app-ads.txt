@@ -14,13 +14,12 @@ bidmachine.io,466,DIRECT
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-5268140418123812, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
 
 #Replace the Business_ID below with your Meta Business ID
 
-facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
 
 #Add other networks if applicable
 
@@ -1474,15 +1473,15 @@ google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 
-google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #GreeterAPL
 
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
 
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 
-google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #Positive
 
-google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #APL
 
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 
@@ -1502,7 +1501,7 @@ google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 
 google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
 
-google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #opa
 
 google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
 
@@ -2048,7 +2047,7 @@ lijit.com, 222372, RESELLER, fafdf38b16bf6b2b
 
 lijit.com, 224984, RESELLER, fafdf38b16bf6b2b
 
-lijit.com, 233291, RESELLER, fafdf38b16bf6b2b
+lijit.com, 233291, RESELLER, fafdf38b16bf6b2b #SOVRN
 
 lijit.com, 260380, RESELLER, fafdf38b16bf6b2b
 
@@ -2056,7 +2055,7 @@ lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
 
 lijit.com, 380632, RESELLER, fafdf38b16bf6b2b
 
-lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 
 lijit.com, 473789, RESELLER, fafdf38b16bf6b2b
 
@@ -2072,7 +2071,7 @@ lijit.com, 520578, RESELLER, fafdf38b16bf6b2b
 
 lijit.com, 528054, RESELLER, fafdf38b16bf6b2b
 
-lijit.com, 541964, RESELLER, fafdf38b16bf6b2b
+lijit.com, 541964, RESELLER, fafdf38b16bf6b2b #SOVRN
 
 lijit.com, 542770, RESELLER, fafdf38b16bf6b2b
 
@@ -2084,7 +2083,7 @@ lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
 
 lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
 
-lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b #SOVRN
 
 lijit.com,242989,RESELLER,fafdf38b16bf6b2b
 
@@ -4566,7 +4565,7 @@ ushareit.com, LCfafa51927e71233e, RESELLER
 
 verve.com, 15503, RESELLER, 0c8f5958fc2d627
 
-verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270 #Verve
 
 verve.com,14592,RESELLER,0c8f5958fc2d6270
 
@@ -5053,5 +5052,3 @@ zmaticoo.com,5135302,RESELLER
 zmaticoo.com,5135535,RESELLER
 
 zoomd.com,88478941,RESELLER
-
-google.com, pub-5268140418123812, DIRECT, f08c47fec0942fa0
